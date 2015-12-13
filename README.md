@@ -22,3 +22,4 @@ Again open existing connection with given credentials of database and click exec
 B) Application Execution
 1. Install application from “AppSetup” folder or just execute application from “AssignmentManagementSystem(Group4)\AssignmentManagementSystem(group4)\462_ManagementApp\462_ManagementApp\bin\Debug\assignex.exe”
 2. Login into Application from Given Login and Password Credentials from Database in “user” table.
+ 
