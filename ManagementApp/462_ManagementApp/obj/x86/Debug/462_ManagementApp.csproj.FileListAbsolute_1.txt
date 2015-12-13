@@ -1,0 +1,35 @@
+c:\users\leslie\documents\visual studio 2010\Projects\462_ManagementApp\462_ManagementApp\bin\Debug\462_ManagementApp.exe
+c:\users\leslie\documents\visual studio 2010\Projects\462_ManagementApp\462_ManagementApp\bin\Debug\462_ManagementApp.pdb
+c:\users\leslie\documents\visual studio 2010\Projects\462_ManagementApp\462_ManagementApp\obj\x86\Debug\_462_ManagementApp.Form1.resources
+c:\users\leslie\documents\visual studio 2010\Projects\462_ManagementApp\462_ManagementApp\obj\x86\Debug\_462_ManagementApp.Properties.Resources.resources
+c:\users\leslie\documents\visual studio 2010\Projects\462_ManagementApp\462_ManagementApp\obj\x86\Debug\462_ManagementApp.csproj.GenerateResource.Cache
+c:\users\leslie\documents\visual studio 2010\Projects\462_ManagementApp\462_ManagementApp\obj\x86\Debug\462_ManagementApp.exe
+c:\users\leslie\documents\visual studio 2010\Projects\462_ManagementApp\462_ManagementApp\obj\x86\Debug\462_ManagementApp.pdb
+C:\Users\Leslie\documents\visual studio 2010\Projects\462_ManagementApp\462_ManagementApp\obj\x86\Debug\462_ManagementApp.csprojResolveAssemblyReference.cache
+C:\Users\Leslie\Documents\GitHub\462Project\462_ManagementApp\462_ManagementApp\bin\Debug\462_ManagementApp.exe
+C:\Users\Leslie\Documents\GitHub\462Project\462_ManagementApp\462_ManagementApp\bin\Debug\462_ManagementApp.pdb
+C:\Users\Leslie\Documents\GitHub\462Project\462_ManagementApp\462_ManagementApp\obj\x86\Debug\462_ManagementApp.csprojResolveAssemblyReference.cache
+C:\Users\Leslie\Documents\GitHub\462Project\462_ManagementApp\462_ManagementApp\obj\x86\Debug\_462_ManagementApp.Form1.resources
+C:\Users\Leslie\Documents\GitHub\462Project\462_ManagementApp\462_ManagementApp\obj\x86\Debug\_462_ManagementApp.Main.resources
+C:\Users\Leslie\Documents\GitHub\462Project\462_ManagementApp\462_ManagementApp\obj\x86\Debug\_462_ManagementApp.NewAssign.resources
+C:\Users\Leslie\Documents\GitHub\462Project\462_ManagementApp\462_ManagementApp\obj\x86\Debug\_462_ManagementApp.Properties.Resources.resources
+C:\Users\Leslie\Documents\GitHub\462Project\462_ManagementApp\462_ManagementApp\obj\x86\Debug\462_ManagementApp.csproj.GenerateResource.Cache
+C:\Users\Leslie\Documents\GitHub\462Project\462_ManagementApp\462_ManagementApp\obj\x86\Debug\462_ManagementApp.exe
+C:\Users\Leslie\Documents\GitHub\462Project\462_ManagementApp\462_ManagementApp\obj\x86\Debug\462_ManagementApp.pdb
+C:\Users\Ajinkya's XPS\Desktop\462Project\462_ManagementApp\462_ManagementApp\bin\Debug\462_ManagementApp.exe.config
+C:\Users\Ajinkya's XPS\Desktop\462Project\462_ManagementApp\462_ManagementApp\bin\Debug\462_ManagementApp.exe
+C:\Users\Ajinkya's XPS\Desktop\462Project\462_ManagementApp\462_ManagementApp\bin\Debug\462_ManagementApp.pdb
+C:\Users\Ajinkya's XPS\Desktop\462Project\462_ManagementApp\462_ManagementApp\bin\Debug\MySql.Data.dll
+C:\Users\Ajinkya's XPS\Desktop\462Project\462_ManagementApp\462_ManagementApp\obj\x86\Debug\462_ManagementApp.csprojResolveAssemblyReference.cache
+C:\Users\Ajinkya's XPS\Desktop\462Project\462_ManagementApp\462_ManagementApp\obj\x86\Debug\_462_ManagementApp.Form1.resources
+C:\Users\Ajinkya's XPS\Desktop\462Project\462_ManagementApp\462_ManagementApp\obj\x86\Debug\_462_ManagementApp.Details.resources
+C:\Users\Ajinkya's XPS\Desktop\462Project\462_ManagementApp\462_ManagementApp\obj\x86\Debug\_462_ManagementApp.Main.resources
+C:\Users\Ajinkya's XPS\Desktop\462Project\462_ManagementApp\462_ManagementApp\obj\x86\Debug\_462_ManagementApp.NewAssign.resources
+C:\Users\Ajinkya's XPS\Desktop\462Project\462_ManagementApp\462_ManagementApp\obj\x86\Debug\_462_ManagementApp.Properties.Resources.resources
+C:\Users\Ajinkya's XPS\Desktop\462Project\462_ManagementApp\462_ManagementApp\obj\x86\Debug\462_ManagementApp.csproj.GenerateResource.Cache
+C:\Users\Ajinkya's XPS\Desktop\462Project\462_ManagementApp\462_ManagementApp\obj\x86\Debug\462_ManagementApp.exe
+C:\Users\Ajinkya's XPS\Desktop\462Project\462_ManagementApp\462_ManagementApp\obj\x86\Debug\462_ManagementApp.pdb
+C:\Users\Ajinkya's XPS\Desktop\462Project\462_ManagementApp\462_ManagementApp\obj\x86\Debug\_462_ManagementApp.Modify.resources
+C:\Users\Ajinkya's XPS\Desktop\462Project\462_ManagementApp\462_ManagementApp\obj\x86\Debug\_462_ManagementApp.MainDir.resources
+C:\Users\Ajinkya's XPS\Desktop\462Project\462_ManagementApp\462_ManagementApp\obj\x86\Debug\_462_ManagementApp.MainEmp.resources
+C:\Users\Ajinkya's XPS\Desktop\462Project\462_ManagementApp\462_ManagementApp\obj\x86\Debug\_462_ManagementApp.PassChange.resources
