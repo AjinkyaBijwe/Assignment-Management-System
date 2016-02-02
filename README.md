@@ -1,5 +1,6 @@
 # Assignement-Management-System
-management app in c#
+Management App in C#
+---------------------
 
 A) Database Installation Instructions
 The Database in Assignment Management System consist of MySQL version 5.6.21.
