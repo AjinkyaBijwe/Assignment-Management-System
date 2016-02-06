@@ -44,7 +44,7 @@ Login
 ![error message when password in both textbox did not match](https://cloud.githubusercontent.com/assets/8812357/12862833/29ebc70a-cc24-11e5-97ee-d097296712d3.JPG)
 ![error message when password is entered less than 6 characters](https://cloud.githubusercontent.com/assets/8812357/12862836/29ed3a7c-cc24-11e5-846a-39681df27c58.JPG)
 ![loginscreen](https://cloud.githubusercontent.com/assets/8812357/12862837/29ee4de0-cc24-11e5-96ea-21ad31dea9bb.JPG)
-![message when password is successfully entered](https://cloud.githubusercontent.com/assets/8812357/12862834/29ec448c-cc24-11e5-863f-d2ef864cf244.JPG)
+
 
 
 Manager Operations
